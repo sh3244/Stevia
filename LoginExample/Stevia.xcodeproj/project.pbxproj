@@ -31,7 +31,7 @@
 
 /* Begin PBXFileReference section */
 		99E2AA8A23BF7C3E00CBD63C /* Stevia */ = {isa = PBXFileReference; lastKnownFileType = folder; name = Stevia; path = ..; sourceTree = "<group>"; };
-		99FC80DB1BBD147B0068503C /* LoginStevia.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LoginStevia.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		99FC80DB1BBD147B0068503C /* Stevia.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Stevia.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		99FC80DE1BBD147B0068503C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		99FC80E01BBD147B0068503C /* LoginVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginVC.swift; sourceTree = "<group>"; };
 		99FC80E51BBD147B0068503C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -73,7 +73,7 @@
 		99FC80DC1BBD147B0068503C /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				99FC80DB1BBD147B0068503C /* LoginStevia.app */,
+				99FC80DB1BBD147B0068503C /* Stevia.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -95,9 +95,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		99FC80DA1BBD147B0068503C /* LoginStevia */ = {
+		99FC80DA1BBD147B0068503C /* Stevia */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 99FC80ED1BBD147B0068503C /* Build configuration list for PBXNativeTarget "LoginStevia" */;
+			buildConfigurationList = 99FC80ED1BBD147B0068503C /* Build configuration list for PBXNativeTarget "Stevia" */;
 			buildPhases = (
 				99FC80D71BBD147B0068503C /* Sources */,
 				99FC80D81BBD147B0068503C /* Frameworks */,
@@ -108,12 +108,12 @@
 			);
 			dependencies = (
 			);
-			name = LoginStevia;
+			name = Stevia;
 			packageProductDependencies = (
 				99E2AA8C23BF7C4E00CBD63C /* Stevia */,
 			);
 			productName = LoginNadir;
-			productReference = 99FC80DB1BBD147B0068503C /* LoginStevia.app */;
+			productReference = 99FC80DB1BBD147B0068503C /* Stevia.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -131,7 +131,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 99FC80D61BBD147B0068503C /* Build configuration list for PBXProject "LoginStevia" */;
+			buildConfigurationList = 99FC80D61BBD147B0068503C /* Build configuration list for PBXProject "Stevia" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -144,7 +144,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				99FC80DA1BBD147B0068503C /* LoginStevia */,
+				99FC80DA1BBD147B0068503C /* Stevia */,
 			);
 		};
 /* End PBXProject section */
@@ -304,7 +304,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.octopepper.LoginNadir;
-				PRODUCT_NAME = LoginStevia;
+				PRODUCT_NAME = Stevia;
 				SWIFT_VERSION = 5.0;
 			};
 			name = Debug;
@@ -321,7 +321,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.octopepper.LoginNadir;
-				PRODUCT_NAME = LoginStevia;
+				PRODUCT_NAME = Stevia;
 				SWIFT_VERSION = 5.0;
 			};
 			name = Release;
@@ -329,7 +329,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		99FC80D61BBD147B0068503C /* Build configuration list for PBXProject "LoginStevia" */ = {
+		99FC80D61BBD147B0068503C /* Build configuration list for PBXProject "Stevia" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				99FC80EB1BBD147B0068503C /* Debug */,
@@ -338,7 +338,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		99FC80ED1BBD147B0068503C /* Build configuration list for PBXNativeTarget "LoginStevia" */ = {
+		99FC80ED1BBD147B0068503C /* Build configuration list for PBXNativeTarget "Stevia" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				99FC80EE1BBD147B0068503C /* Debug */,
